@@ -1,3 +1,4 @@
+package ru.netology.HworkJava5.services;
 public class RestMonthsService {
 
         public int calculate(int income, int expenses, int threshold) {
